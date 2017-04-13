@@ -1,5 +1,5 @@
 require 'watir'
-require_relative 'nothing'
+#require_relative 'InfoLogin'
 
 usernamep = $username
 password = $password
