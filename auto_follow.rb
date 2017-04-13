@@ -3,7 +3,7 @@ require_relative 'nothing'
 
 usernamep = $username
 password = $password
-user = "justinbieber"
+user = "judgementd"
 
 
 #open browser
